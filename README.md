@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 Complete this training
 
 ## Employment
+
+### Copyright
+
+2020
