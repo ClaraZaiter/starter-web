@@ -18,4 +18,4 @@ Dummy text
 
 ### Copyright
 
-2020
+2020. All rights reserved.
